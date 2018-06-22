@@ -1,0 +1,2 @@
+C:\Users\ligua\OneDrive\Study\Summer 2018\EAE 3010\Assignment 4 Unity\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\ligua\OneDrive\Study\Summer 2018\EAE 3010\Assignment 4 Unity\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
